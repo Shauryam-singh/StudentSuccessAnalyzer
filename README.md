@@ -14,18 +14,18 @@ The Student Success Analyzer is a machine learning-based application designed to
 ## Installation
 
 1. **Clone the repository:**
-git clone https://github.com/Shauryam-singh/StudentSuccessAnalyzer.git
-cd StudentSuccessAnalyzer
+- git clone https://github.com/Shauryam-singh/StudentSuccessAnalyzer.git
+- cd StudentSuccessAnalyzer
 
 3. **Create a virtual environment:**
-python -m venv venv
-venv\Scripts\activate
+- python -m venv venv 
+- venv\Scripts\activate
 
 4. **Install the required packages:**
-pip install -r requirements.txt
+- pip install -r requirements.txt
 
 5. **Run the application:**
-python app.py
+- python app.py
 
 ## Usage
 
